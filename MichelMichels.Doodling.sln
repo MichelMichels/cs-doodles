@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MichelMichels.KboScaper", "MichelMichels.KboScaper\MichelMichels.KboScaper.csproj", "{C0861FF8-921D-42EB-9C2A-82394E48063B}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanvasDemos", "CanvasDemos\CanvasDemos.csproj", "{E897F809-9430-4713-A375-32F12CB00330}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MichelMichels.PrintingFun", "MichelMichels.PrintingFun\MichelMichels.PrintingFun.csproj", "{5259739F-C67C-4A0D-9033-3E58E607BDBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichelMichels.Proverbs", "MichelMichels.Proverbs\MichelMichels.Proverbs.csproj", "{AB43CC05-301A-4273-A21C-84727DB33A3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MichelMichels.Proverbs", "MichelMichels.Proverbs\MichelMichels.Proverbs.csproj", "{AB43CC05-301A-4273-A21C-84727DB33A3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0861FF8-921D-42EB-9C2A-82394E48063B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0861FF8-921D-42EB-9C2A-82394E48063B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0861FF8-921D-42EB-9C2A-82394E48063B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0861FF8-921D-42EB-9C2A-82394E48063B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E897F809-9430-4713-A375-32F12CB00330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E897F809-9430-4713-A375-32F12CB00330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E897F809-9430-4713-A375-32F12CB00330}.Release|Any CPU.ActiveCfg = Release|Any CPU
